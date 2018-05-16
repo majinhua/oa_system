@@ -21,6 +21,5 @@ public class Test {
         session.save(user);
         session.getTransaction().commit();
 
-
     }
 }
